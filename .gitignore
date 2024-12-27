@@ -1,0 +1,18 @@
+# Node.js / npm
+node_modules/
+package-lock.json
+
+# Python
+__pycache__/
+*.pyc
+
+# Entornos locales
+.env
+.env.local
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar archivo de token de Git
+tokenGit.txt
